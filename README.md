@@ -8,6 +8,8 @@
 
 O <strong>forms</strong> é um projeto construído para a assimilação e aplicação dos conhecimentos sobre a construção de formulários com <strong><em>HTML</em></strong> e <strong><em>CSS</em></strong>.
 
+- Formulário desenvolvido durante o stage 03 da Trilha Explorer da <a href="https://www.rocketseat.com.br/">@Rocketseat</a>.
+
 > HTML:
 - Tipos de inputs;
 - Atributo <em>action</em> e <em>method</em>;
