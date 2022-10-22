@@ -22,13 +22,13 @@ O <strong>forms</strong> é um projeto construído para a assimilação e aplica
 - Box-sizing;
 - Transformações de textos;
 - Pseudo-classes;
-- Propriedades de posição dos elementos;
+- Propriedades de posicionamento dos elementos;
 - Modificações do <em>checkbox</em> e <em>select</em> sem perder a acessibilidade;
 - Vendor prefixes.
 
 > Protótipo:
 
-🔗 [Clique aqui para acessar](https://nathxrz.github.io/TrilhaExplorer-forms01-stage-03/)
+🔗 [Clique aqui para acessar](https://nathxrz.github.io/TrilhaExplorer-forms-1/)
  
 <hr>
 
